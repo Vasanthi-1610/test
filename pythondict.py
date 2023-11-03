@@ -11,7 +11,6 @@ dict1={"a": 1, "b": 3}
 
 def dict2(s):
 	print(s.keys())
-	print(s.values())
 
 dict2(dict1)
 
